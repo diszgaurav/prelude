@@ -1,1 +1,1 @@
-(setq prelude-theme 'leuven)
+(setq prelude-theme 'aurora)
